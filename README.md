@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Siva</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<p align="left"> <img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="siva-05" /> </p>
+<p align="left"> <img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="siva-05" /><img src="https://media.tenor.com/aW19IFCWaSMAAAAC/millie-millie-bobby-brown.gif" alt="siva-05" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siva-05" alt="siva-05" /></a> </p>
 
