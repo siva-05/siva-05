@@ -30,5 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siva-05&show_icons=true&locale=en" alt="siva-05" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siva-05&" alt="siva-05" /></p>
-<img src="https://media.tenor.com/aW19IFCWaSMAAAAC/millie-millie-bobby-brown.gif" alt="siva-05" />
+<!-- <img src="https://media.tenor.com/aW19IFCWaSMAAAAC/millie-millie-bobby-brown.gif" alt="siva-05" /> -->
 <p>tata bye dur!!!</p>
